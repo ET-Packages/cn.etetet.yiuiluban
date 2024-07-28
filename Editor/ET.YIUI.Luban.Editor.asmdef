@@ -1,7 +1,8 @@
-﻿{
+{
     "name": "ET.YIUI.Luban.Editor",
     "rootNamespace": "",
     "references": [
+        "ET.YIUI.Luban"
     ],
     "includePlatforms": [
         "Editor"

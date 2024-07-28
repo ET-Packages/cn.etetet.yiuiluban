@@ -1,9 +1,11 @@
 ﻿{
     "Id": 1204,
-    "Name": "yiuiluban",
+    "Name": "YIUI.Luban",
     "ScriptsReferences": 
     {
         "Hotfix": ["ET.YIUI.Luban"],
-        "Model": ["ET.YIUI.Luban"]
+        "HotfixView": ["ET.YIUI.Luban"],
+        "Model": ["ET.YIUI.Luban"],
+        "ModelView": ["ET.YIUI.Luban"]
     }
 }

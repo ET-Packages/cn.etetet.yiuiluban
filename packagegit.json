@@ -1,0 +1,9 @@
+﻿{
+    "Id": 1204,
+    "Name": "yiuiluban",
+    "ScriptsReferences": 
+    {
+        "Hotfix": ["ET.YIUI.Luban"],
+        "Model": ["ET.YIUI.Luban"]
+    }
+}

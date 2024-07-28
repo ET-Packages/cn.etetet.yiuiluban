@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNLUvEoj8n21bhSEa0Q89/YWNkvoh0G+fBECAXnPCGtXMAfuLvkFNbg8CR1vhMEvdoqDBKjm56swpEvYxigM9Q==",
+  "success": true,
+  "projectFilePath": "D:\\Unity\\ETProject\\YIUIET9.0\\Packages\\cn.etetet.yiuiluban\\DotNet~\\Csharp_Server_DotNet5_json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lsy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Lsy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Lsy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Lsy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,15 +1,12 @@
-﻿{
+{
     "name": "ET.YIUI.Luban",
     "rootNamespace": "",
-    "references": [
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
-    "precompiledReferences": [
-        ""
-    ],
+    "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
